@@ -54,7 +54,6 @@
 ---
 
 ## 📈 GitHub Activity Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=manishpandey&theme=github)
 
 ---
 
@@ -66,6 +65,12 @@
 ---
 
 ## 📬 How to Reach Me
-- **Email**: [manish@example.com](mailto:manish@example.com)
-- **LinkedIn**: [Manish Pandey](https://linkedin.com/in/hmpmanish/)
-- **WhatsApp**: [Let's Chat](https://wa.me/your-number)
+<p align="left">
+  <a href="mailto:hmpanish@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hmpanish@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/hmpmanish/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Manish%20Pandey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+</p>
