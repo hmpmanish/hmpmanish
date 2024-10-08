@@ -1,13 +1,71 @@
-<h1 align="center">Hi 👋, I'm Manish Pandey</h1>
-<h3 align="center">A passionate frontend developer from Lucknow</h3>
+<h1 align="center">Hi there! I'm Manish Pandey 👨‍💻</h1>
+<h3 align="center">Full-Stack Developer | Automation Enthusiast | Lifelong Learner 🚀</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hmpmanish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hmpmanish" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hmpmanish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hmpmanish" height="30" width="40" /></a>
-<a href="https://fb.com/hmpmanish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hmpmanish" height="30" width="40" /></a>
-<a href="https://instagram.com/hmp_manish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hmp_manish" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Full-stack+Developer+%7C+Python+Enthusiast;Always+Learning+and+Innovating!;Creating+Impact+with+Technology" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+<p align="center">
+  <a href="https://linkedin.com/in/hmpmanish/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/HMP_manish" target="_blank">
+    <img src="https://img.shields.io/badge/X-Follow%20me-black?style=for-the-badge&logo=x" alt="X" />
+  </a>
+  <a href="https://www.instagram.com/hmp_manish/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+## 🔥 About Me
+- 💻 Full-Stack Web Developer with experience in **MERN** stack, **Python**, and **API Development**.
+- 🌱 Currently learning **Cloud Technologies** and **Microservices**.
+- 👨‍🏫 Actively contributing to open-source projects to give back to the tech community.
+- 🎯 Fun fact: I love automating mundane tasks with Python scripts!
+
+---
+
+## 🛠️ Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manishpandey&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishpandey&layout=compact&theme=radical" />
+</div>
+
+---
+
+## 📈 GitHub Activity Graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=manishpandey&theme=github)
+
+---
+
+## 🏆 Achievements
+- 🏅 **Top Contributor** in multiple open-source repositories.
+- 🌟 **Starred by 100+ developers** on GitHub.
+- 💼 Participated in several hackathons and won top positions.
+
+---
+
+## 📬 How to Reach Me
+- **Email**: [manish@example.com](mailto:manish@example.com)
+- **LinkedIn**: [Manish Pandey](https://linkedin.com/in/hmpmanish/)
+- **WhatsApp**: [Let's Chat](https://wa.me/your-number)
