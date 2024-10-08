@@ -13,10 +13,10 @@
   <a href="https://linkedin.com/in/hmpmanish/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/HMP_manish" target="_blank">
+  <a href="https://x.com/hmpmanish" target="_blank">
     <img src="https://img.shields.io/badge/X-Follow%20me-black?style=for-the-badge&logo=x" alt="X" />
   </a>
-  <a href="https://www.instagram.com/hmp_manish/" target="_blank">
+  <a href="https://www.instagram.com/hmpmanish/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram" alt="Instagram" />
   </a>
 </p>
