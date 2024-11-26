@@ -1,4 +1,3 @@
-
 ![logo](https://github.com/hmpmanish/HMPMANISH/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi there! I'm Manish Pandey 👨‍💻</h1>
 <h3 align="center">Full-Stack Developer | Automation Enthusiast | Lifelong Learner 🚀</h3>
@@ -43,13 +42,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manishpandey&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishpandey&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hmpmanish&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmpmanish&layout=compact&theme=radical" />
 </div>
 
 ---
 
 ## 📈 GitHub Activity Graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hmpmanish&theme=react-dark)
 
 ---
 
@@ -68,9 +68,10 @@
   <a href="https://linkedin.com/in/hmpmanish/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Manish%20Pandey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  
 </p>
+
+---
+
 ### Watch my contribution graph get eaten by the snake :snake:
 
-<!-- platane/snk works, it just puts it on a new branch -->
-![hmpmanish](https://github.com/mishmanners/MishManners/blob/output/github-snake.svg))
+![hmpmanish](https://github.com/hmpmanish/HMPMANISH/blob/main/output/github-snake.svg)
