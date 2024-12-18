@@ -1,0 +1,49 @@
+const fs = require('fs');
+const { createCanvas } = require('canvas');
+
+const width = 800;
+const height = 600;
+const canvas = createCanvas(width, height);
+const context = canvas.getContext('2d');
+
+// Background color
+context.fillStyle = '#1e1e2f';
+context.fillRect(0, 0, width, height);
+
+// Draw a grid-like snake (simple example for GitHub Snake visuals)
+const cellSize = 20;
+context.strokeStyle = '#ffffff';
+context.lineWidth = 1;
+
+for (let x = 0; x < width; x += cellSize) {
+  for (let y = 0; y < height; y += cellSize) {
+    context.strokeRect(x, y, cellSize, cellSize);
+  }
+}
+
+// Draw a sample snake (represented as circles here)
+const snakeColor = '#42f54b';
+context.fillStyle = snakeColor;
+
+const snake = [
+  { x: 5, y: 5 },
+  { x: 6, y: 5 },
+  { x: 7, y: 5 },
+];
+
+snake.forEach((segment) => {
+  context.beginPath();
+  context.arc(
+    segment.x * cellSize + cellSize / 2,
+    segment.y * cellSize + cellSize / 2,
+    cellSize / 2 - 2,
+    0,
+    2 * Math.PI
+  );
+  context.fill();
+});
+
+// Export canvas to SVG
+fs.writeFileSync('github-snake.svg', canvas.toBuffer('image/svg+xml'));
+
+console.log('SVG file created: github-snake.svg');
