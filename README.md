@@ -1,4 +1,4 @@
-![logo](https://github.com/hmpmanish/HMPMANISH/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(1).png)
+![logo](https://github.com/hmpmanish/hmpmanish/blob/main/fIZ4YAhiS_GQGVcwG1eVjw.jpg)
 <h1 align="center">Hi there! I'm Manish Pandey 👨‍💻</h1>
 <h3 align="center">Full-Stack Developer | Automation Enthusiast | Lifelong Learner 🚀</h3>
 
