@@ -56,7 +56,7 @@
 - 🌟 **Starred by 100+ developers** on GitHub.
 - 💼 Participated in several hackathons and won top positions.
 
----
+---  
 
 ## 🏅 Certifications
 - **Python (Intermediate)** - [HackerRank Certification](https://www.hackerrank.com/certificates/26c8a1814531)
