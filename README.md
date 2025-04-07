@@ -1,89 +1,73 @@
-![logo](https://github.com/hmpmanish/hmpmanish/blob/main/fIZ4YAhiS_GQGVcwG1eVjw.jpg)
-<h1 align="center">Hi there! I'm Manish Pandey 👨‍💻</h1>
-<h3 align="center">Full-Stack Developer | Automation Enthusiast | Lifelong Learner 🚀</h3>
+<img src="https://raw.githubusercontent.com/hmpmanish/hmpmanish/main/fIZ4YAhiS_GQGVcwG1eVjw.jpg" width="100%" alt="banner" />
+
+<h1 align="center">Hey there, I'm Manish Pandey 👋</h1>
+<h3 align="center">🚀 Full-Stack Dev | ⚙️ Automation Fan | 🌱 Always Learning</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Full-stack+Developer+%7C+Python+Enthusiast;Always+Learning+and+Innovating!;Creating+Impact+with+Technology" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=500&lines=Building+cool+stuff+with+code...;Python+%7C+JavaScript+%7C+Web+Dev;Learning+Cloud+and+Microservices;Welcome+to+my+GitHub+space!" alt="Typing animation" />
 </p>
 
 ---
+
+### 👨‍💻 About Me
+- 🛠️ Full-stack dev working with **MERN**, **Python**, and **APIs**.
+- 🔁 Love turning boring tasks into Python scripts.
+- 🌐 Learning **Cloud**, **Docker**, and **Microservices**.
+- 🤝 Contributor to open source — sharing is caring.
+- 🎧 Coding + Bhojpuri music = perfect combo.
+
+---
+
+### 🧰 Tech I Use
+<p>
+  <img src="https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-264DE4?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Projects
+- 🧠 [**Exam Manager Chrome Extension**](https://github.com/hmpmanish/exam-manager) – Helps track exams. Built with pure JS.
+- 🌐 [**Personal Portfolio**](https://github.com/hmpmanish/portfolio-site) – My digital home, built with HTML/CSS/JS.
+- 🔐 [**Login Auth System**](https://github.com/hmpmanish/login-auth) – Simple user authentication using Node & Express.
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://linkedin.com/in/hmpmanish/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/hmpmanish" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow%20me-black?style=for-the-badge&logo=twitter" alt="Twitter" />
-  </a>
-  <a href="https://www.instagram.com/hmpmanish/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram" alt="Instagram" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hmpmanish&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmpmanish&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 About Me
-- 💻 Full-Stack Web Developer with experience in **MERN** stack, **Python**, and **API Development**.
-- 🌱 Currently learning **Cloud Technologies** and **Microservices**.
-- 👨‍🏫 Actively contributing to open-source projects to give back to the tech community.
-- 🎯 Fun fact: I love automating mundane tasks with Python scripts!
+### 🏅 Certifications
+- 🐍 Python (Intermediate) – [View](https://www.hackerrank.com/certificates/26c8a1814531)
+- ☕ Java (Intermediate) – [View](https://www.hackerrank.com/certificates/iframe/7367677eeccb)
+- 🧩 Problem Solving – [View](https://www.hackerrank.com/certificates/iframe/694fc7f813a7)
 
 ---
 
-## 🛠️ Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+### 📫 Let's Connect
+<p>
+  <a href="mailto:hmpmanish@gmail.com"><img src="https://img.shields.io/badge/Gmail-hmpmanish-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/hmpmanish"><img src="https://img.shields.io/badge/LinkedIn-hmpmanish-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/hmpmanish"><img src="https://img.shields.io/badge/Twitter-hmpmanish-000000?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://instagram.com/hmpmanish"><img src="https://img.shields.io/badge/Instagram-hmpmanish-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hmpmanish&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmpmanish&layout=compact&theme=radical" />
-</div>
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----  
-
-## 🏅 Certifications
-- **Python (Intermediate)** - [HackerRank Certification](https://www.hackerrank.com/certificates/26c8a1814531)
-- **Java (Intermediate)** - [HackerRank Certification](https://www.hackerrank.com/certificates/iframe/7367677eeccb)
-- **Problem Solving (Intermediate)** - [HackerRank Certification](https://www.hackerrank.com/certificates/iframe/694fc7f813a7)
-
----
-
-## 📬 How to Reach Me
-<p align="left">
-  <a href="mailto:hmpmanish@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hmpmanish@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/hmpmanish/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Manish%20Pandey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+### 🐍 Snake Eating My Contributions
+<p align="center">
+  <img src="https://github.com/hmpmanish/HMPMANISH/blob/main/output/github-snake.svg" alt="snake gif" />
 </p>
 
----
-
-### Watch my contribution graph get eaten by the snake :snake:
-
-![hmpmanish](https://github.com/hmpmanish/HMPMANISH/blob/main/output/github-snake.svg)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hmpmanish&label=Profile%20views&color=blue&style=flat" alt="views" />
+</p>
