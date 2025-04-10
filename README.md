@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/hmpmanish/hmpmanish/main/fIZ4YAhiS_GQGVcwG1eVjw.jpg" width="100%" alt="banner" />
+<img src="https://github.com/hmpmanish/hmpmanish/blob/main/ChatGPT%20Image%20Apr%2010%2C%202025%2C%2001_05_45%20PM.png" width="100%" alt="banner" />
 
 <h1 align="center">Hey there, I'm Manish Pandey 👋</h1>
 <h3 align="center">🚀 Full-Stack Dev | ⚙️ Automation Fan | 🌱 Always Learning</h3>
