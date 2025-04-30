@@ -1,4 +1,4 @@
-<img src="https://github.com/hmpmanish/hmpmanish/blob/main/ChatGPT%20Image%20Apr%2010%2C%202025%2C%2001_05_45%20PM.png" width="100%" alt="banner" />
+<img src="https://raw.githubusercontent.com/hmpmanish/hmpmanish/main/ChatGPT%20Image%20Apr%2010%2C%202025%2C%2001_05_45%20PM.png" width="100%" alt="banner" />
 
 <h1 align="center">Hey there, I'm Manish Pandey 👋</h1>
 <h3 align="center">🚀 Full-Stack Dev | ⚙️ Automation Fan | 🌱 Always Learning</h3>
@@ -26,14 +26,26 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
 ### 🚀 Projects
-- 🧠 [**Exam Manager Chrome Extension**](https://github.com/hmpmanish/exam-manager) – Helps track exams. Built with pure JS.
-- 🌐 [**Personal Portfolio**](https://github.com/hmpmanish/portfolio-site) – My digital home, built with HTML/CSS/JS.
-- 🔐 [**Login Auth System**](https://github.com/hmpmanish/login-auth) – Simple user authentication using Node & Express.
+
+- 🎯 [**Hand Detector**](https://github.com/hmpmanish/Hand-Detector) – Real-time hand detection using MediaPipe and OpenCV in Python.
+- 👣 [**Motion Tracking**](https://github.com/hmpmanish/Motion-Tracking) – Tracks movement using webcam; ideal for basic surveillance or activity analysis.
+- 🌐 [**Personal Portfolio**](https://github.com/hmpmanish/portfolio) – A clean, responsive web portfolio built with HTML, CSS, and JavaScript.
+- 🤖 [**Chatbot**](https://github.com/hmpmanish/Chatbot) – A simple Python chatbot demonstrating basic natural language understanding.
+- 🧮 [**Calculator**](https://github.com/hmpmanish/calculator-) – A beginner-friendly JavaScript calculator with basic arithmetic functions.
+- 🔐 [**Fake Login Detector**](https://github.com/hmpmanish/fake-login-detector) – Detects suspicious login pages and alerts users for safety.
+- 🧾 [**Code Snippet Library**](https://github.com/hmpmanish/Code-Snippet-Library) – A handy collection of reusable code snippets across multiple languages.
+- 🔗 [**URL Shortener**](https://github.com/hmpmanish/URL-shortener) – A Node.js app that shortens long URLs with support for redirection.
+- 📚 [**Info**](https://github.com/hmpmanish/info) – General-purpose repository for personal data, notes, or documentation.
+- 🧠 [**Exam Manager Chrome Extension**](https://github.com/hmpmanish/exam-manager) – Chrome extension for managing exam schedules and countdowns.
+- 🔐 [**Login Auth System**](https://github.com/hmpmanish/login-auth) – Node.js + Express-based authentication system with MongoDB integration.
 
 ---
 
@@ -65,7 +77,7 @@
 
 ### 🐍 Snake Eating My Contributions
 <p align="center">
-  <img src="https://github.com/hmpmanish/HMPMANISH/blob/main/output/github-snake.svg" alt="snake gif" />
+  <img src="https://github.com/hmpmanish/hmpmanish/blob/main/output/github-snake.svg" alt="snake gif" />
 </p>
 
 <p align="center">
