@@ -1,4 +1,7 @@
 <img src="https://raw.githubusercontent.com/hmpmanish/hmpmanish/main/ChatGPT%20Image%20Apr%2010%2C%202025%2C%2001_05_45%20PM.png" width="100%" alt="banner" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hmpmanish&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+</div>
 
 # 👋 Hey there, I'm Manish Pandey
 
@@ -42,9 +45,9 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hmpmanish&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hmpmanish&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
 
 ---
 
