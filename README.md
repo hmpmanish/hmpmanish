@@ -7,6 +7,25 @@
   <img src="./dark.svg" width="100%" alt="Professional developer profile banner">
 </picture>
 
+
+
+
+
+
+
+  <img src="https://komarev.com/ghpvc/?username=hmpmanish&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+</div>
+
+
+
+
+
+
+
+
+
+
+
 <br>
 
 <a href="https://github.com/hmpmanish">
