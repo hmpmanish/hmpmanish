@@ -49,7 +49,7 @@ I love to build simple projects and learn new tools, with an active interest in 
 
 ---
 
-## 📡 Signals
+## 📡 Signals 
 
 <div align="center">
 <table>
