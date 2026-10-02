@@ -2,31 +2,14 @@
 
 <!-- HERO BANNER -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" width="100%" alt="Professional developer profile banner">
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img src="dark.svg" width="100%" alt="Professional developer profile banner">
 </picture>
 
+<img src="https://komarev.com/ghpvc/?username=hmpmanish&label=Profile%20views&color=blueviolet&style=for-the-badge&base=2000" alt="Profile views" />
 
-
-
-
-
-
-  <img src="https://komarev.com/ghpvc/?username=hmpmanish&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
-</div>
-
-
-
-
-
-
-
-
-
-
-
-<br>
+<br><br>
 
 <a href="https://github.com/hmpmanish">
   <img src="https://readme-typing-svg.demolab.com?font=Menlo&weight=600&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Manish+Pandey+-+Beginner+Full-Stack+Developer;Building+Projects+%26+Learning+New+Tools;Web+Dev+%7C+Python+%7C+Java" alt="typing banner">
