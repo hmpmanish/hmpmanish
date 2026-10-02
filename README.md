@@ -7,7 +7,7 @@
   <img src="dark.svg" width="100%" alt="Professional developer profile banner">
 </picture>
 
-<img src="https://komarev.com/ghpvc/?username=hmpmanish&label=Profile%20views&color=blueviolet&style=for-the-badge&base=2000" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=hmpmanish&label=Profile%20views&color=blueviolet&style=for-the-badge&base=5000" alt="Profile views" />
 
 <br><br>
 
@@ -49,7 +49,7 @@ I love to build simple projects and learn new tools, with an active interest in 
 
 ---
 
-## 📡 Signals 
+## 📡 Signals
 
 <div align="center">
 <table>
@@ -66,12 +66,29 @@ I love to build simple projects and learn new tools, with an active interest in 
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=hmpmanish&theme=tokyonight&margin-w=15&margin-h=15&column=7&no-frame=true&no-bg=true" alt="hmpmanish trophies" />
+  </a>
+</div>
+
+---
+
 ## 📊 GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hmpmanish&show_icons=true&theme=tokyo-night&hide_border=true&include_all_commits=true&count_private=true" width="480" alt="GitHub statistics">
+<img src="https://github-readme-stats.vercel.app/api?username=hmpmanish&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="480" alt="GitHub statistics">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmpmanish&theme=tokyonight&hide_border=true&layout=compact" width="350" alt="Top Languages">
 <br><br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hmpmanish&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+<img src="https://readme-activity-graph.vercel.app/graph?username=hmpmanish&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" />
+<br><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hmpmanish/hmpmanish/output/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hmpmanish/hmpmanish/output/dist/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hmpmanish/hmpmanish/output/dist/github-contribution-grid-snake-dark.svg">
+</picture>
 </div>
 
 <br>
